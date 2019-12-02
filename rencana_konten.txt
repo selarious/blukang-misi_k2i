@@ -5,3 +5,7 @@ Konten dikembangkan dengan repo git
 Javascript akan didayagunakan
 teknologi terbaru pengembangan web
 sifat utama mobile platform
+fokus pada frontend development
+menggunakan React JS
+menggunakan Angular JS
+menggunakan Vue JS
