@@ -5,3 +5,6 @@ Konten dikembangkan dengan repo git
 Javascript akan didayagunakan
 teknologi terbaru pengembangan web
 sifat utama mobile platform
+Fokus ke backend programming 
+Prioritas pada Laravel, Nodejs dan Django
+Python diutamakan
