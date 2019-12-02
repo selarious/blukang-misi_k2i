@@ -8,3 +8,4 @@ sifat utama mobile platform
 Fokus ke backend programming 
 Prioritas pada Laravel, Nodejs dan Django
 Python diutamakan
+
